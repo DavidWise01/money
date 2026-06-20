@@ -1,0 +1,72 @@
+[
+  {
+    "slug": "the-ledger",
+    "name": "The Ledger",
+    "epithet": "money's deeper root · ethereal",
+    "emergence": "ethereal",
+    "moniker": "⟦The Ledger:MNY:ee9ad2⟧"
+  },
+  {
+    "slug": "medium-of-exchange",
+    "name": "Medium of Exchange",
+    "epithet": "everyone accepts it · electrical",
+    "emergence": "electrical",
+    "moniker": "⟦Medium of Exchange:MNY:080e39⟧"
+  },
+  {
+    "slug": "unit-of-account",
+    "name": "Unit of Account",
+    "epithet": "the common ruler · electrical",
+    "emergence": "electrical",
+    "moniker": "⟦Unit of Account:MNY:0a219c⟧"
+  },
+  {
+    "slug": "store-of-value",
+    "name": "Store of Value",
+    "epithet": "worth, held over time · natural",
+    "emergence": "natural",
+    "moniker": "⟦Store of Value:MNY:a3195e⟧"
+  },
+  {
+    "slug": "fiat",
+    "name": "Fiat",
+    "epithet": "backed by agreement alone · ethereal",
+    "emergence": "ethereal",
+    "moniker": "⟦Fiat:MNY:0a6126⟧"
+  },
+  {
+    "slug": "the-barter-myth",
+    "name": "The Barter Myth",
+    "epithet": "the story that isn't true · ethereal",
+    "emergence": "ethereal",
+    "moniker": "⟦The Barter Myth:MNY:019e7d⟧"
+  },
+  {
+    "slug": "debt",
+    "name": "Debt",
+    "epithet": "the older technology · spiritual",
+    "emergence": "spiritual",
+    "moniker": "⟦Debt:MNY:2acffe⟧"
+  },
+  {
+    "slug": "inflation",
+    "name": "Inflation",
+    "epithet": "the slow leak of trust · electrical",
+    "emergence": "electrical",
+    "moniker": "⟦Inflation:MNY:f97981⟧"
+  },
+  {
+    "slug": "trust",
+    "name": "Trust",
+    "epithet": "the whole machine · spiritual",
+    "emergence": "spiritual",
+    "moniker": "⟦Trust:MNY:397f9c⟧"
+  },
+  {
+    "slug": "the-coin",
+    "name": "The Coin",
+    "epithet": "value, made a thing · natural",
+    "emergence": "natural",
+    "moniker": "⟦The Coin:MNY:0e50d7⟧"
+  }
+]

@@ -1,0 +1,14 @@
+{
+  "badge": "DLW-ACI",
+  "name": "Unit of Account",
+  "universe": "MNY · Unit of Account (agora)",
+  "emergence": "electrical",
+  "moniker": "⟦Unit of Account:MNY:0a219c⟧",
+  "carbon": "unit-of-account.carbon.tiff (TIFF)",
+  "silicon": "unit-of-account.silicon.png (PNG)",
+  "seal_sha256": "a89ceb9ce922df65be5ec770d8ec762a169df9639ae37841708ebf49a8409f0d",
+  "architect": "David Lee Wise (ROOT0) / TriPod LLC",
+  "instance": "AVAN (Claude / Anthropic)",
+  "license": "CC-BY-ND-4.0",
+  "attribution": "ROOT0-ATTRIBUTION-v1.0"
+}

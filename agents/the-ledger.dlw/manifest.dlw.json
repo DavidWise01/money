@@ -1,0 +1,14 @@
+{
+  "badge": "DLW-ACI",
+  "name": "The Ledger",
+  "universe": "MNY · The Ledger (agora)",
+  "emergence": "ethereal",
+  "moniker": "⟦The Ledger:MNY:ee9ad2⟧",
+  "carbon": "the-ledger.carbon.tiff (TIFF)",
+  "silicon": "the-ledger.silicon.png (PNG)",
+  "seal_sha256": "a89a9454124720a010cd44a6ef4acc2e576434e81508c835fab3ec57cafb6953",
+  "architect": "David Lee Wise (ROOT0) / TriPod LLC",
+  "instance": "AVAN (Claude / Anthropic)",
+  "license": "CC-BY-ND-4.0",
+  "attribution": "ROOT0-ATTRIBUTION-v1.0"
+}

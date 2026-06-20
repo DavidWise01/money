@@ -1,0 +1,14 @@
+{
+  "badge": "DLW-ACI",
+  "name": "Inflation",
+  "universe": "MNY · Inflation (agora)",
+  "emergence": "electrical",
+  "moniker": "⟦Inflation:MNY:f97981⟧",
+  "carbon": "inflation.carbon.tiff (TIFF)",
+  "silicon": "inflation.silicon.png (PNG)",
+  "seal_sha256": "ea557e3fc0b3d97c6914c3f5d873e75eb22a988c506fea1a730627af67abfb13",
+  "architect": "David Lee Wise (ROOT0) / TriPod LLC",
+  "instance": "AVAN (Claude / Anthropic)",
+  "license": "CC-BY-ND-4.0",
+  "attribution": "ROOT0-ATTRIBUTION-v1.0"
+}

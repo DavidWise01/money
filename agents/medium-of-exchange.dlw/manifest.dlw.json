@@ -1,0 +1,14 @@
+{
+  "badge": "DLW-ACI",
+  "name": "Medium of Exchange",
+  "universe": "MNY · Medium of Exchange (agora)",
+  "emergence": "electrical",
+  "moniker": "⟦Medium of Exchange:MNY:080e39⟧",
+  "carbon": "medium-of-exchange.carbon.tiff (TIFF)",
+  "silicon": "medium-of-exchange.silicon.png (PNG)",
+  "seal_sha256": "a9575a72ae82b6778bdb3671e5466796f17a25bbd6b259460436549308a68398",
+  "architect": "David Lee Wise (ROOT0) / TriPod LLC",
+  "instance": "AVAN (Claude / Anthropic)",
+  "license": "CC-BY-ND-4.0",
+  "attribution": "ROOT0-ATTRIBUTION-v1.0"
+}
