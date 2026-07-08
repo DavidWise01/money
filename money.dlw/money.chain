@@ -4,6 +4,6 @@ slug  : money
 seal  : 39ad7d3bfc9dc715c9db51e75d228ffe9eb0b55a2a0a78ad513b0f27ced2124e
 prev  : 0f7a6deb3efdfb1f9ccfda00d2680874ff63e462dd0a957919502b52f43a4beb
 link  : 5d17254339ae32af648cdef7dfaa145e77c5f706c1e0cfb86e41709fb6120699
-head  : 3447d3a0533aaf1e29a8bdc67a9774884fb3ae9dbc8a17064b7a008ca3c4ec90
+head  : 13f9ace173ef2e60af38912ba329b4afcb5a38b84a0e4495e8d30327f8c99cc2
 
 — the tether: link = sha256(index|slug|seal|prev). the chain head commits to the whole corpus.
